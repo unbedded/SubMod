@@ -1,0 +1,6 @@
+[submodule "submod1"]
+	path = submod1
+	url = git@github.com:unbedded/submod1.git
+[submodule "submod2"]
+	path = submod2
+	url = git@github.com:unbedded/submod2.git
